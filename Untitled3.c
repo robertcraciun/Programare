@@ -15,4 +15,5 @@ int main()
         for (i=0;i<n;i++)
         printf ("b[%d]=%d ",i,b[i]);
         printf ("\n");
+        printf("Proba.");
 }
