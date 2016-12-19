@@ -50,6 +50,8 @@ int main()
         cout << "egale";
     else
         cout << "nu sunt egale";
+      
+      cout << "Editare";
 
 
 
