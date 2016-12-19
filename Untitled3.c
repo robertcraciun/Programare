@@ -16,4 +16,5 @@ int main()
         printf ("b[%d]=%d ",i,b[i]);
         printf ("\n");
         printf("Proba.");
+        printf("19.12.2016");
 }
